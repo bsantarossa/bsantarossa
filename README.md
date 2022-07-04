@@ -8,6 +8,16 @@
 
 <h2>📃Certifications</h2>
 
+-[TestOut PC Pro Certification](https://certification.testout.com/verifycert?certificateId=6-2C6-KMMGG)
+
+-[TestOut Client Pro Certification](https://certification.testout.com/verifycert?certificateId=6-2C6-AVR6W)
+
+-[TestOut Network Pro Certification](https://certification.testout.com/verifycert?certificateId=6-2C6-A3PNS)
+
+-[Certified Scrum Master| Scrum Alliance](https://bcert.me/swycnrkek)
+
+-[Certfied Scrum product Owner | Scrum Allance](https://bcert.me/ssborzvnj)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 

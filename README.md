@@ -2,39 +2,36 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Lab](https://github.com/bsantarossa/)
-  - [Hello World!](https://github.com/bsantarossa/)
   
 
 <h2>📃Certifications</h2>
 
--[TestOut PC Pro Certification](https://certification.testout.com/verifycert?certificateId=6-2C6-KMMGG)
+-[TestOut | PC Pro Certification](https://certification.testout.com/verifycert?certificateId=6-2C6-KMMGG)
 
--[TestOut Client Pro Certification](https://certification.testout.com/verifycert?certificateId=6-2C6-AVR6W)
+-[TestOut | Client Pro Certification](https://certification.testout.com/verifycert?certificateId=6-2C6-AVR6W)
 
--[TestOut Network Pro Certification](https://certification.testout.com/verifycert?certificateId=6-2C6-A3PNS)
+-[TestOut | Network Pro Certification](https://certification.testout.com/verifycert?certificateId=6-2C6-A3PNS)
 
--[Certified Scrum Master| Scrum Alliance](https://bcert.me/swycnrkek)
+-[Scrum Alliance | Certified Scrum Master ](https://bcert.me/swycnrkek)
 
--[Certfied Scrum product Owner | Scrum Allance](https://bcert.me/ssborzvnj)
+-[Scrum Allance | Certfied Scrum product Owner](https://bcert.me/ssborzvnj)
 
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/briansantarossa
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

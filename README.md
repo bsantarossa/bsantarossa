@@ -1,7 +1,7 @@
 <h1>Hi, I'm Brian!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-<p> This is a test</p>
+This is a test
   
 
 <h2>📃Certifications</h2>

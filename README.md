@@ -1,6 +1,4 @@
-<head>
-  <title> Hi, I'm Brian! </title>
-    </head>
+<h1> Hi! I'm Brian</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

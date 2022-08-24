@@ -1,5 +1,5 @@
 <head>
-  <title> Hi, I'm Brian! </ttitle
+  <title> Hi, I'm Brian! </title>
     </head>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>

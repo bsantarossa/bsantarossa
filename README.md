@@ -1,8 +1,8 @@
-<h1>Hi, I'm Brian!</h1>
+<head>Hi, I'm Brian!</head>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  This is a project
+
 
 <h2>📃Certifications</h2>
 
